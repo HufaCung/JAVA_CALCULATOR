@@ -1,0 +1,27 @@
+# Android Studio / IntelliJ
+.gradle/
+local.properties
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aar
+*.bundle
+
+# Build output
+/*/build/
+build/
+
+# Kotlin
+*.kotlin_module
+
+# OS generated files
+.DS_Store
+Thumbs.db
