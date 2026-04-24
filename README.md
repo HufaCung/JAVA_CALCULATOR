@@ -1,21 +1,20 @@
 # Calculator App (Java)
 
-## Gioi thieu
-Day la ung dung may tinh ca nhan duoc thuc hien tren nen tang Android bang ngon ngu Java. 
-App ho tro cac phep tinh co ban va mot so tinh nang mo rong.
+## Overview
+This is a personal calculator application developed for the Android platform using the **Java** programming language. The app features a clean, modern interface and provides essential mathematical functionalities for everyday use.
 
-## Tinh nang chinh
-- Tinh toan co ban: Cong, tru, nhan, chia.
-- Tinh nang mo rong:
-  - Nut %: Tinh phan tram.
-  - Nut +/-: Dao dau so hang.
-  - Ho tro dau phay (,) thap phan.
-- Giao dien: Toi uu cho man hinh dien thoai Android.
+## Key Features
+- **Basic Arithmetic:** Supports addition, subtraction, multiplication, and division with decimal precision.
+- **Advanced Operations:**
+  - `%` Button: Quick percentage calculations.
+  - `+/-` Button: Toggle positive/negative values.
+  - Smart Decimal Handling: Optimized for user-friendly input (supporting comma/dot conversion).
+- **Responsive UI:** Fully optimized for various Android screen sizes and orientations.
 
-## Cong nghe su dung
-- Ngon ngu: Java
-- Giao dien: XML
-- Cong cu: Android Studio, Git
+## Tech Stack
+- **Language:** Java
+- **UI Design:** XML (Android Layouts)
+- **Development Tools:** Android Studio, Git/GitHub
 
-## Anh minh hoa
+## Preview
 ![Calculator Demo](https://github.com/HufaCung/JAVA_CALCULATOR/raw/main/demo.png)
